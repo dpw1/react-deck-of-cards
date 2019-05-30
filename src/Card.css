@@ -1,0 +1,30 @@
+.Card {
+  width: 100%;
+  max-width: 160px;
+  position: absolute;
+  top: 0;
+  opacity: 0;
+  animation: fadeIn 0.1s;
+  animation-delay: 0.025s;
+  animation-fill-mode: forwards;
+}
+@media (max-width: 435px) {
+  .Card {
+    max-width: 125px;
+  }
+}
+
+.Card > img {
+  max-width: 160px;
+  width: 100%;
+}
+
+/* Keyframes */
+@keyframes fadeIn {
+  99% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
