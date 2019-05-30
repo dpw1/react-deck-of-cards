@@ -2,7 +2,7 @@ Simple animated deck of cards using [Deck of Cards API](https://deckofcardsapi.c
 
 ## Live Demo
 
-[Click here!](https://github.com/gitname/react-gh-pages)
+[Click here!](https://dpw1.github.io/react-deck-of-cards/)
 
 ## Running the Project
 
