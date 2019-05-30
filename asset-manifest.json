@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-deck-of-cards/static/css/main.385d7ddd.chunk.css",
+    "main.js": "/react-deck-of-cards/static/js/main.923c2589.chunk.js",
+    "main.js.map": "/react-deck-of-cards/static/js/main.923c2589.chunk.js.map",
+    "runtime~main.js": "/react-deck-of-cards/static/js/runtime~main.9616842a.js",
+    "runtime~main.js.map": "/react-deck-of-cards/static/js/runtime~main.9616842a.js.map",
+    "static/js/2.82049b35.chunk.js": "/react-deck-of-cards/static/js/2.82049b35.chunk.js",
+    "static/js/2.82049b35.chunk.js.map": "/react-deck-of-cards/static/js/2.82049b35.chunk.js.map",
+    "index.html": "/react-deck-of-cards/index.html",
+    "precache-manifest.d5720ee88303ddcf9403b85aae7c1e69.js": "/react-deck-of-cards/precache-manifest.d5720ee88303ddcf9403b85aae7c1e69.js",
+    "service-worker.js": "/react-deck-of-cards/service-worker.js",
+    "static/css/main.385d7ddd.chunk.css.map": "/react-deck-of-cards/static/css/main.385d7ddd.chunk.css.map"
+  }
+}
